@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/AhmedElsherbini98/UIX">
-  <img src="https://raw.githubusercontent.com/AhmedElsherbini98/UIX/main/cover.png" alt="UI/UX Design Mastery Guide Cover"/>
+  <img src="https://github.com/AhmedElsherbini98/UIX/blob/main/484551687_122102872052800012_6805339411405267854_n.png?raw=true"/>
 </a>
 
 <br>
